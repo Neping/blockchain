@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "runtime",
+    "../blockchain/core",
+    "../blockchain/utils",
+]
